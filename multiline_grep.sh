@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LOG_FILE="/path/to/logfile.log"
-START_PATTERN="LogEntryStartPattern"
+START_PATTERN='\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}'
 TX_TYPE="WEB_PURCHASE"
 
 # pobierz aktualna date i godzine
