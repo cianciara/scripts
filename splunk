@@ -1,0 +1,2 @@
+index=main | timechart count by clientip limit=10
+index=main | top limit=5 clientip
