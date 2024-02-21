@@ -1,0 +1,8 @@
+1111_ISS:
+  host: host.pl
+  port: 8080
+  info:
+    role:
+      - role1
+      - role2
+    name: 'name'

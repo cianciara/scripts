@@ -1,0 +1,4 @@
+short_name,member_id,role,host,port
+name1,1111_ISS,role1,host.pl,8080
+name2,1112_ISS,role2,hostb.pl,8080
+name3,1113_ISS,role3,hostc.pl,8080

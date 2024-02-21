@@ -1,0 +1,18 @@
+1111_ISS:
+  host: host.pl
+  port: '8080'
+  info:
+    role: role1
+    name: name1
+1112_ISS:
+  host: hostb.pl
+  port: '8080'
+  info:
+    role: role2
+    name: name2
+1113_ISS:
+  host: hostc.pl
+  port: '8080'
+  info:
+    role: role3
+    name: name3
